@@ -1,0 +1,134 @@
+body{
+    margin:0%;
+    text-align: center;
+    color: #40514E;
+    background-color: #ffffff;
+}
+.top-container{
+    margin: 0%;
+    background-color: #ffffff;
+    background-position-y: 70%;
+    height: 545px;
+    background-repeat: no-repeat;
+    
+}
+.bottom-container{
+    background-color: #ECF9FF;
+    padding: 50px 0px 20px;
+}
+span.underline{
+    text-decoration: underline;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    padding: 20%;
+    padding-bottom: 2%;
+    margin: 0%;
+    font-size: 5.78rem;
+    color: #243763;
+}
+.subtitle{
+    padding-top: 0%;
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 130%;
+    text-align: center;
+    font-weight: bolder;
+    color: #1F8A70;
+}
+.skill-row{
+    width: 50%;
+    margin: auto;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.profile{
+    width: 23%;
+    float: left;
+    margin-right: 30px;
+}
+.profilee{
+    width: 23%;
+    float: right;
+    padding-left: 10px;
+}
+.profily{
+    width: 35%;
+    margin: auto;
+}
+.down{
+    margin-top: 150px;
+    margin-bottom: 100px;
+}
+p{
+    line-height: 2;
+    font-size: 110%;
+}
+.profil{
+    height: 15%;
+    width: 30%;
+    margin-top: 8%;
+
+}
+.fa:hover {
+    opacity: 0.7;
+}
+.cont{
+    margin-top: 15%;
+}
+.line{
+    border-style: hidden;
+}
+hr{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 70px auto;
+}
+.fa{
+    margin: 10px 20px;
+    text-decoration: none;
+    color: rgb(195, 0, 255);
+}
+.copyright{
+    font-size: 0.90rem;
+    padding: 20px 0;
+    color: #000000;
+
+}
+h2{
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: 150%;
+    color: #3C84AB;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #00337C;
+}
+    .contact-message{
+        color: #000000;
+        font-weight: 400;
+
+    }
+    .btn {
+        background: #3498db;
+        background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+        background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+        background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+        background-image: -o-linear-gradient(top, #3498db, #2980b9);
+        background-image: linear-gradient(to bottom, #3498db, #2980b9);
+        -webkit-border-radius: 14;
+        -moz-border-radius: 14;
+        border-radius: 14px;
+        font-family: Georgia;
+        color: #ffffff;
+        font-size: 20px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn:hover {
+        background: #3cb0fd;
+        text-decoration: none;
+      }
+      
